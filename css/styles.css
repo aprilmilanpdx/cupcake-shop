@@ -1,0 +1,38 @@
+h1.flashy {
+  text-align: center;
+  font-style: italic;
+  color: red;
+}
+
+h2.flashy {
+  text-align: center;
+  font-style: italic;
+  color: red;
+}
+
+.flashy {
+  text-align: center;
+  font-style: italic;
+  color: red;
+}
+
+p.best {
+  text-align: center;
+  font-style: italic;
+
+  color: rgb(255, 255, 255);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 400px;
+  width: 400px;
+}
+
+body {
+  background-image: url("background-cupcakes.jpg");
+  background-color: #cccccc;
+  background-size: cover;
+}
